@@ -3,7 +3,7 @@
 return [
     'actions'       => [
         'remove'    => 'Remove premium',
-        'unlock'    => 'Go premium',
+        'unlock'    => 'Go test',
     ],
     'create'        => [
         'actions'   => [

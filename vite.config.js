@@ -5,9 +5,9 @@ import vue from '@vitejs/plugin-vue';
 export default defineConfig({
     server: {
         //host: '172.18.0.6',
-        hmr: {
+       /* hmr: {
             host: 'kanka.test',
-        },
+        }, */
         watch: {
             ignored: [
                 '**/bootstrap/**',
